@@ -1,0 +1,156 @@
+@media screen and (max-width: 768px) {
+  /* all */
+  body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1em;
+
+  }
+  /* all */
+  /* lezioni */
+  #lezioni > .row{
+    width: 100%;
+    background-color: rgb(242, 242, 205);
+    margin-top: 0;
+  }
+  #lezioni > .row > h1{
+    margin-top: 0;
+    padding-top: 10px;
+  }
+  #lezioni > .row  img{
+    height: 100px;
+  }
+  /* lezioni */
+  /* steps */
+  #steps > .row{
+    width: 100vw;
+    margin-top: 0;
+  }
+  #steps > .row > h1{
+    margin-top: 0;
+    padding-top: 10px;
+  }
+  #steps > .row  img{
+    height: 100px;
+  }
+  #steps > .row  .right img{
+    margin-top: 30px;
+  }
+  #steps > .row > .left{
+    width: 50%;
+  }
+  #steps > .row > .central{
+    width: 50%;
+  }
+  #steps > .row > .right{
+    width: 100%;
+  }
+  /* steps */
+  /* steps */
+  #why > .row{
+    width: 100vw;
+    background-color: rgb(242, 242, 205);
+    margin-top: 0;
+  }
+  #why > .row > h1{
+    margin-top: 0;
+    padding-top: 10px;
+  }
+  #why > .row  img{
+    height: 60px;
+  }
+  #why > .row > .first{
+    margin-top: 0;
+  }
+  #why > .row > .second{
+    margin-top: 0;
+  }
+  #why > .row > .third{
+    margin-top: 0;
+  }
+  #why > .row hr{
+    width: 96%;
+    height: 2px;
+  }
+  /* steps */
+}
+@media screen and (max-width: 420px) {
+  /* all */
+  body{
+    font-size: 1.2em
+  }
+  h3{
+    margin: 0;
+  }
+  /* all */
+  /* lezioni */
+  #lezioni > .row{
+    width: 100%;
+    background-color: rgb(242, 242, 205);
+    margin-top: 0;
+  }
+  #lezioni > .row > h1{
+    margin-top: 0;
+    padding-top: 10px;
+  }
+  #lezioni > .row img{
+    height: 120px;
+  }
+  #lezioni > .row > .left{
+    width: 100%;
+  }
+  #lezioni > .row > .right{
+    width: 100%;
+  }
+  /* lezioni */
+  /* steps */
+  #steps > .row{
+    width: 100vw;
+    margin-top: 0;
+  }
+  #steps > .row > h1{
+    margin-top: 0;
+    padding-top: 10px;
+  }
+  #steps > .row img{
+    height: 120px;
+  }
+  #steps > .row > .left{
+    width: 100%;
+  }
+    #steps > .row > .central{
+    width: 100%;
+  }
+  #steps > .row > .right{
+    width: 100%;
+  }
+  /* steps */
+  /* steps */
+  #why > .row{
+    width: 100vw;
+    background-color: rgb(242, 242, 205);
+    margin-top: 0;
+  }
+  #why > .row > h1{
+    margin-top: 0;
+    padding-top: 10px;
+  }
+  #why > .row img{
+    height: 80px;
+  }
+  #why > .row > .first{
+    margin-top: 0;
+  }
+  #why > .row > .second{
+    margin-top: 0;
+  }
+  #why > .row > .third{
+    margin-top: 0;
+  }
+  #why > .row hr{
+    width: 96%;
+    height: 2px;
+  }
+  /* steps */
+}
