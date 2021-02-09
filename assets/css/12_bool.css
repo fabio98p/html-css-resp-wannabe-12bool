@@ -166,7 +166,7 @@
 }
 /* mobile */
 /* tablet */
-@media all and (min-width: 768px) (max-width: 991px) {
+@media all and (min-width: 768px) and (max-width: 991px) {
   .col_md_12{
     width: calc(100% * (1));
   }
@@ -247,7 +247,7 @@
 
 /* tablet */
 /* dekstop */
-@media all (min-width: 992) {
+@media all and (min-width: 992px) {
   .col_lg_12{
     width: calc(100% * (1));
   }
