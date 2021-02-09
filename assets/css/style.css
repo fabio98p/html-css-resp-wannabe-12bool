@@ -12,7 +12,8 @@ h1{
 }
 img {
   height: 200px;
-  margin-bottom: 1em
+  margin-top: 2em;
+  margin-bottom: 0.5em;
 }
 h3{
   margin: 0;
@@ -25,8 +26,7 @@ p{
   margin: 0 auto;
   width: 90%;
 }
-[class*="col_"]{
-  margin-bottom: 30px;
+.row [class*="col_"]{
 }
 #lezioni .row img {
   display: block;
